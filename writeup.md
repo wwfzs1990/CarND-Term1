@@ -15,7 +15,7 @@ The submitted files of this project includes:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteCurve_gray.jpg "Grayscale"
 
 ---
 
