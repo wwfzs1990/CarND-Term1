@@ -15,7 +15,12 @@ The submitted files of this project includes:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidWhiteCurve_gray.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteCurve_gray.jpg
+[image2]: ./test_images_output/solidWhiteCurve_edges.jpg
+[image3]: ./test_images_output/solidWhiteCurve_masked_edges.jpg
+[image4]: ./test_images_output/solidWhiteCurve_Hough_line_raw.jpg
+[image5]: ./test_images_output/solidWhiteCurve_Hough_line_modified.jpg
+[image6]: ./test_images_output/solidWhiteCurve_output.jpg
 
 ---
 
