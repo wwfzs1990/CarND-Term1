@@ -15,12 +15,12 @@ The submitted files of this project includes:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidWhiteCurve_gray.jpg 				"Grayscale"
-[image2]: ./test_images_output/solidWhiteCurve_edges.jpg 				"Edges"
-[image3]: ./test_images_output/solidWhiteCurve_masked_edges.jpg 		"MaskedEdges"
-[image4]: ./test_images_output/solidWhiteCurve_Hough_line_raw.jpg 		"HoughLineRaw"
-[image5]: ./test_images_output/solidWhiteCurve_Hough_line_modified.jpg 	"HoughLineModified"
-[image6]: ./test_images_output/solidWhiteCurve_output.jpg 				"Output"
+[image1]: ./test_images_output/solidWhiteCurve_gray.jpg "Grayscale"
+[image2]: ./test_images_output/solidWhiteCurve_edges.jpg "Edges"
+[image3]: ./test_images_output/solidWhiteCurve_masked_edges.jpg "MaskedEdges"
+[image4]: ./test_images_output/solidWhiteCurve_Hough_line_raw.jpg "HoughLineRaw"
+[image5]: ./test_images_output/solidWhiteCurve_Hough_line_modified.jpg "HoughLineModified"
+[image6]: ./test_images_output/solidWhiteCurve_output.jpg "Output"
 ---
 
 ### Reflection
