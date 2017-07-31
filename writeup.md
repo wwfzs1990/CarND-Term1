@@ -15,13 +15,8 @@ The submitted files of this project includes:
 
 [//]: # (Image References)
 
-[image0]: ./examples/grayscale.jpg "Grayscale"
-[image1]: ./test_images_output/solidWhiteCurve_gray.jpg "Grayscale"
-[image2]: ./test_images_output/solidWhiteCurve_edges.jpg "Edges"
-[image3]: ./test_images_output/solidWhiteCurve_masked_edges.jpg "MaskedEdges"
-[image4]: ./test_images_output/solidWhiteCurve_Hough_line_raw.jpg "HoughLineRaw"
-[image5]: ./test_images_output/solidWhiteCurve_Hough_line_modified.jpg "HoughLineModified"
-[image6]: ./test_images_output/solidWhiteCurve_output.jpg "Output"
+[image1]: ./examples/grayscale.jpg "Grayscale"
+
 ---
 
 ### Reflection
@@ -32,7 +27,7 @@ My pipeline consisted of 5 steps.
 
 **Step 1:** The image was converted to grayscale, here is an example of one test image:
 
-![alt text][image0]
+![alt text][image1]
 
 **Step 2:** The edges in the grayscale image were extracted by Canny edge detection methods:
 
